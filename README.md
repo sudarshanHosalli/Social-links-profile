@@ -4,7 +4,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: https://classy-otter-a9f38b.netlify.app/
+- Live Site URL: https://lucky-axolotl-e61a46.netlify.app/
 
 ### Built with
 
